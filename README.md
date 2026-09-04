@@ -16,6 +16,9 @@ This repo contains my weekly tasks for the Data Science with Pyhton internship.
 ## Weekly Tasks
 
 | Week 2 | Advanced Data Visualization & Storytelling | ✅ |
+| Week 3 | Statistical Analysis and Hypothesis testing | ✅ |
+| Week 4 | Machine Learning Model Development and Evaluation | ✅ |
+| Week 5 | Comprehensive Data Science Project Reporting and Strategic Recommendations | ✅ |
 
 ## Week 2 — Advanced Data Visualization
 
