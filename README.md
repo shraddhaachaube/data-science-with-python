@@ -1,6 +1,6 @@
-# Data Science Internship
+# Data Science with Python
 
-This repo contains my weekly tasks for the Data Science internship.
+This repo contains my weekly tasks for the Data Science with Pyhton internship.
 
 ## About
 
@@ -15,13 +15,7 @@ This repo contains my weekly tasks for the Data Science internship.
 
 ## Weekly Tasks
 
-| Week | Topic | Status |
-|------|-------|--------|
-| Week 1 | Data Acquisition, Cleaning & EDA | ✅ |
 | Week 2 | Advanced Data Visualization & Storytelling | ✅ |
-| Week 3 | Statistical Analysis & Hypothesis Testing | ⬜ |
-| Week 4 | ML Model Development & Evaluation | ⬜ |
-| Week 5 | Final Project Report & Recommendations | ⬜ |
 
 ## Week 2 — Advanced Data Visualization
 
